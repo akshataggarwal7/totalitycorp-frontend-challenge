@@ -63,7 +63,7 @@ function App() {
         <div className="post">
           <div className="Add_Text">
             <div className="Profile">
-              <img src="/images/dp.jpg" alt="dp" style={{height:"35px",width:"35px",borderRadius:"50%"}} />
+              <img src="dp.jpg" alt="dp" style={{height:"35px",width:"35px",borderRadius:"50%"}} />
             </div>
             <input type="Post" placeholder="What's Happening ?" />
           </div>
@@ -92,7 +92,7 @@ function App() {
         <div className="posted_area">
         <div className="Profile">
         <div className="User_detail">
-          <img src="/images/dp.jpg" alt="logo" style={{height:"30px",width:"30px",borderRadius:"50%"}} />
+          <img src="dp.jpg" alt="logo" style={{height:"30px",width:"30px",borderRadius:"50%"}} />
           <div className="User-name">Akshat Aggarwal</div>
           <div className="User-id">akshat_2012</div>
         </div>
@@ -106,7 +106,7 @@ function App() {
             </div> 
             <br></br>
             <div className="Profile_image">
-              <img src="/images/dp.jpg" alt="Profile-Picture" style={{width:"100%",height:"23rem",objectFit:"fill"}} />
+              <img src="dp.jpg" alt="Profile-Picture" style={{width:"100%",height:"23rem",objectFit:"fill"}} />
             </div>  
             <div className="Comment_section">
             <div className="Comment">
@@ -126,7 +126,7 @@ function App() {
         <div className="posted_area">
         <div className="Profile">
         <div className="User_detail">
-          <img src="/images/dpronaldo.jpg" alt="logo" style={{height:"30px",width:"30px",borderRadius:"50%"}} />
+          <img src="dpronaldo.jpg" alt="logo" style={{height:"30px",width:"30px",borderRadius:"50%"}} />
           <div className="User-name">Cristiano</div>
           <div className="User-id">cris_07</div>
         </div>
@@ -140,7 +140,7 @@ function App() {
             </div> 
             <br></br>
             <div className="Profile_image">
-              <img src="/images/ronaldo.jpg" alt="Profile-Picture" style={{width:"100%",height:"23rem",objectFit:"fill"}} />
+              <img src="ronaldo.jpg" alt="Profile-Picture" style={{width:"100%",height:"23rem",objectFit:"fill"}} />
             </div>  
             <div className="Comment_section">
             <div className="Comment">
