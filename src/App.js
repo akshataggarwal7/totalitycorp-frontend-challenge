@@ -63,7 +63,7 @@ function App() {
         <div className="post">
           <div className="Add_Text">
             <div className="Profile">
-              <img src="dp.jpg" alt="dp" style={{height:"35px",width:"35px",borderRadius:"50%"}} />
+              <img src="https://img.freepik.com/free-photo/male-soccer-football-player-training-action-isolated-gradient-studio-neon-light_155003-15990.jpg?w=2000" alt="dp" style={{height:"35px",width:"35px",borderRadius:"50%"}} />
             </div>
             <input type="Post" placeholder="What's Happening ?" />
           </div>
@@ -92,7 +92,7 @@ function App() {
         <div className="posted_area">
         <div className="Profile">
         <div className="User_detail">
-          <img src="dp.jpg" alt="logo" style={{height:"30px",width:"30px",borderRadius:"50%"}} />
+          <img src="https://img.freepik.com/free-photo/male-soccer-football-player-training-action-isolated-gradient-studio-neon-light_155003-15990.jpg?w=2000" alt="logo" style={{height:"30px",width:"30px",borderRadius:"50%"}} />
           <div className="User-name">Akshat Aggarwal</div>
           <div className="User-id">akshat_2012</div>
         </div>
@@ -106,7 +106,7 @@ function App() {
             </div> 
             <br></br>
             <div className="Profile_image">
-              <img src="dp.jpg" alt="Profile-Picture" style={{width:"100%",height:"23rem",objectFit:"fill"}} />
+              <img src="https://img.freepik.com/free-photo/male-soccer-football-player-training-action-isolated-gradient-studio-neon-light_155003-15990.jpg?w=2000" alt="Profile-Picture" style={{width:"100%",height:"23rem",objectFit:"fill"}} />
             </div>  
             <div className="Comment_section">
             <div className="Comment">
@@ -126,7 +126,7 @@ function App() {
         <div className="posted_area">
         <div className="Profile">
         <div className="User_detail">
-          <img src="dpronaldo.jpg" alt="logo" style={{height:"30px",width:"30px",borderRadius:"50%"}} />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Cristiano_Ronaldo_2018.jpg" alt="logo" style={{height:"30px",width:"30px",borderRadius:"50%"}} />
           <div className="User-name">Cristiano</div>
           <div className="User-id">cris_07</div>
         </div>
@@ -140,7 +140,7 @@ function App() {
             </div> 
             <br></br>
             <div className="Profile_image">
-              <img src="ronaldo.jpg" alt="Profile-Picture" style={{width:"100%",height:"23rem",objectFit:"fill"}} />
+              <img src="https://imageio.forbes.com/specials-images/imageserve//62aa51710c3e65f16ed3b373/0x0.jpg?format=jpg&crop=1928,1314,x217,y0,safe&width=1200" alt="Profile-Picture" style={{width:"100%",height:"23rem",objectFit:"fill"}} />
             </div>  
             <div className="Comment_section">
             <div className="Comment">
